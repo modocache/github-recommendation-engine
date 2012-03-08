@@ -26,3 +26,7 @@ amount of time to produce a result.
 You might be wondering whether Github would appreciate so many
 requests being thrown at it--I wonder as well, and I plan on
 getting some feedback from an admin once I get a chance.
+
+## Requirements
+
+- [github2](https://github.com/ask/python-github2), a Python wrapper for the Github API
