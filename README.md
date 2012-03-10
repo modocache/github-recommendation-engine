@@ -9,10 +9,10 @@ in following.
 First, make sure you've entered your Github API token in
 your global git config. Then:
 
-    $ git clone https://github.com/modocache/github-recommendation-engine
-    $ cd github-recommendation-engine
-    $ python engine.py
-    ['<Repository: modocache/github-recommendation-engine>', ...] # Returns a list of repos to follow
+    $ pip install git+https://modocache@github.com/modocache/github-recommendation-engine.git
+    $ github-recommendation-engine
+    ... Wait a long time ...
+    ['<Repository: modocache/github-recommendation-engine>', ...]
 
 ## Limitations
 
