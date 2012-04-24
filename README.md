@@ -1,4 +1,4 @@
-# Github Recommendation Engine
+# Github Recommendation Engine [![endorse](http://api.coderwall.com/modocache/endorsecount.png)](http://coderwall.com/modocache)
 
 A single Python script which queries the Github API
 to return a list of repositories you might be interested
